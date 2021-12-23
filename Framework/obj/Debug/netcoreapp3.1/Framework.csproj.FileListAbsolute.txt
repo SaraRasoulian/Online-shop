@@ -1,0 +1,9 @@
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\bin\Debug\netcoreapp3.1\Framework.deps.json
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\bin\Debug\netcoreapp3.1\Framework.dll
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\bin\Debug\netcoreapp3.1\Framework.pdb
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.csprojAssemblyReference.cache
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.AssemblyInfo.cs
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.dll
+C:\Users\Sara\Desktop\3.1\OnlineShop\Framework\obj\Debug\netcoreapp3.1\Framework.pdb

@@ -1,0 +1,9 @@
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.deps.json
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csprojAssemblyReference.cache
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.AssemblyInfo.cs
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.dll
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Users\Sara\Desktop\3.1\OnlineShop\ViewModel\obj\Debug\netcoreapp3.1\ViewModel.csproj.CoreCompileInputs.cache

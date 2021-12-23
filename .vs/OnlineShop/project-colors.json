@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e87f2896-a94a-4291-b584-21dcb2a98c41": {
+      "ProjectGuid": "e87f2896-a94a-4291-b584-21dcb2a98c41",
+      "DisplayName": "DomainModel",
+      "ColorIndex": 0
+    },
+    "a60e9126-b0ad-4c06-b50d-825177a22a57": {
+      "ProjectGuid": "a60e9126-b0ad-4c06-b50d-825177a22a57",
+      "DisplayName": "ViewModel",
+      "ColorIndex": 1
+    },
+    "5029eeda-8838-4c86-9961-2b20dc428763": {
+      "ProjectGuid": "5029eeda-8838-4c86-9961-2b20dc428763",
+      "DisplayName": "Framework",
+      "ColorIndex": 2
+    },
+    "aa5d5904-9c0c-4a6d-840a-59d2b3ff9e76": {
+      "ProjectGuid": "aa5d5904-9c0c-4a6d-840a-59d2b3ff9e76",
+      "DisplayName": "Repository",
+      "ColorIndex": 3
+    },
+    "751da041-3a93-498a-9fc4-040ff2518c81": {
+      "ProjectGuid": "751da041-3a93-498a-9fc4-040ff2518c81",
+      "DisplayName": "OnlineShop",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

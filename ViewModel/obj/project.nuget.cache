@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fxjYrRhn9MbUazM8mR6K2ZzlVFLe158A0Gbs8sZqVT9bjvys3zuNPJXLOQp68HD34GzYpYXV7bWLhFPLbnL1ow==",
+  "success": true,
+  "projectFilePath": "E:\\Personal projects\\Programming\\990514_OnlineShop-Asp.net core\\OnlineShop\\ViewModel\\ViewModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\microsoft.aspnetcore.http.features.3.1.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.io.pipelines\\4.7.1\\system.io.pipelines.4.7.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
